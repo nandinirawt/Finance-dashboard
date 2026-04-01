@@ -133,24 +133,7 @@ npm run build
 npm start
 ```
 
----
 
-## Deploying to Vercel
-
-### Option A: One-Click Deploy
-1. Push code to GitHub
-2. Go to [vercel.com/new](https://vercel.com/new)
-3. Import repository → Click **Deploy**
-
-### Option B: Vercel CLI
-```bash
-npm i -g vercel
-vercel
-```
-
-No environment variables required — uses static mock data.
-
----
 
 ## Optional Enhancements Implemented
 
